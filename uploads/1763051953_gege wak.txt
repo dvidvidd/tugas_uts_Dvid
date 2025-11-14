@@ -1,0 +1,57 @@
+1. Sebutkan dan jelaskan dua (2) Color Harmonies yang menghasilkan kontras yang kuat (seperti skema dua warna berseberangan) dan berikan alasannya.
+
+	1.Triadic = Skema triadic menggunakan tiga warna yang terletak secara merata pada roda warna, membentuk segitiga equilateral. Skema 	ini menciptakan keseimbangan warna yang kuat dan beragam dengan menggunakan tiga warna yang berbeda, namun tetap memberikan 	keharmonisan.
+
+	2.Analogous = Analogous colors adalah warna-warna yang terletak berdampingan di roda warna. Skema ini menciptakan transisi yang 	halus antara warna-warna yang serupa, memberikan kesan yang seimbang dan harmonis. Skema warna ini sering digunakan untuk 	menciptakan kesan yang nyaman dan terpadu.
+
+2. Sebutkan dan jelaskan tiga (3) tipe Card (berdasarkan tampilannya: mengambang, bergaris, menyatu) dan kapan Anda akan memilih salah satunya dalam desain List konten.
+
+	1.Elevated card adalah tipe card yang memiliki bayangan atau efek mengambang, sehingga terlihat seperti berada di atas permukaan. 	Efek ini memberikan penekanan visual, membuat elemen tersebut lebih menonjol. Card jenis ini cocok digunakan untuk konten yang ingin 	diberi fokus lebih, seperti artikel unggulan atau notifikasi penting
+
+	2. Outlined card adalah card yang memiliki garis tepi (border) tipis tanpa bayangan. Tampilannya lebih ringan dan datar, cocok untuk 	menampilkan daftar panjang seperti komentar, daftar produk, atau elemen dalam grid. Outlined card memberikan pemisahan visual yang 	jelas antar elemen tanpa terlalu membebani tampilan
+
+	3. Contained card adalah tipe card yang tidak memiliki bayangan maupun garis tepi. Ia menyatu dengan latar belakang, namun tetap 	terpisah secara visual melalui padding, warna, dan jarak antar elemen
+
+3. Sebutkan dan jelaskan dua (2) jenis utama Selection Control dan jelaskan kapan pengguna harus memilih salah satunya (misalnya, untuk pilihan tunggal vs. pilihan ganda).
+
+	Radio Button (Tombol Radio)
+
+	Fungsi: Digunakan untuk memilih satu opsi saja dari beberapa pilihan yang tersedia.
+
+	Kapan digunakan:
+	Gunakan radio button ketika pengguna harus memilih satu pilihan eksklusif, 
+
+	2. Checkbox (Kotak Centang)
+
+	Fungsi: Digunakan untuk memilih satu atau lebih opsi dari daftar pilihan.
+
+	Ciri khas: Pengguna dapat mencentang atau mengosongkan kotak sesuai kebutuhan, dan beberapa pilihan bisa aktif sekaligus.
+
+	Kapan digunakan:
+	Gunakan checkbox ketika pengguna dapat memilih beberapa opsi sekaligus
+
+4. Jelaskan pentingnya Semantic Colors dalam desain UI (seperti Merah, Hijau, Kuning) dan sebutkan dua (2) fungsi status yang diwakili oleh warna-warna tersebut.
+
+ Semantic colors adalah warna yang memiliki makna atau arti tertentu dalam konteks antarmuka pengguna (UI). Tujuannya bukan hanya estetika, tetapi juga untuk memberikan informasi secara visual agar pengguna dapat dengan cepat memahami status, kondisi, atau hasil dari suatu tindakan tanpa harus membaca teks.
+
+contoh kegunaan semantic colors :
+
+Meningkatkan keterbacaan dan kejelasan informasi.
+
+Memberikan umpan balik visual yang konsisten terhadap aksi pengguna.
+
+Meningkatkan pengalaman pengguna (UX) karena memudahkan identifikasi status secara intuitif.fungsi
+
+Merah = Menunjukkan kesalahan (error) atau peringatan bahaya
+kuning = 
+hijau    = Menandakan keberhasilan (success) atau status aman/berhasil.\
+
+
+5. Sebutkan dan jelaskan tiga (3) jenis Grid System yang Anda ketahui, dan jelaskan kapan masing-masing jenis tersebut paling cocok digunakan.
+
+Kolom merupakan unit utama dalam sistem grid. Grid dapat terdiri dari beberapa kolom dengan lebar yang seragam atau bervariasi. Kolom-kolom ini berperan penting dalam penempatan dan pengaturan elemen-elemen desain.
+
+Gutter adalah area kosong, baik secara vertikal maupun horizontal, yang terletak di antara kolom-kolom dalam sebuah grid. Gutter berfungsi untuk memisahkan ruang antara kolom-kolom, serta memberikan cukup ruang di antara elemen-elemen desain.
+
+Margin adalah ruang kosong di sekitar elemen-elemen desain yang memisahkan elemen-elemen tersebut dari tepi grid atau elemen-elemen lainnya. Margin membantu dalam memberikan ruang napas dan menjaga tampilan yang teratur.
+
